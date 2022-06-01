@@ -1,0 +1,13 @@
+# Ignoring the csv files
+data/*.csv
+*.pyc
+__pycache__/
+
+.pytest_cache
+.coverage
+
+dist/
+build/
+*.egg-info/
+
+settings.json
